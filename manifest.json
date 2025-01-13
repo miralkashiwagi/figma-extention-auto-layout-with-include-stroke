@@ -9,12 +9,6 @@
   "editorType": [
     "figma"
   ],
-  "menu": [
-    {
-      "name": "Auto Layout Settings: Strokes Included",
-      "command": "applyAutoLayout"
-    }
-  ],
   "networkAccess": {
     "allowedDomains": [
       "none"
