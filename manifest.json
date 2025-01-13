@@ -1,0 +1,23 @@
+{
+  "name": "Change Auto Layout Settings: Include Stroke",
+  "id": "1459548931842443340",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "menu": [
+    {
+      "name": "Auto Layout Settings: Strokes Included",
+      "command": "applyAutoLayout"
+    }
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
